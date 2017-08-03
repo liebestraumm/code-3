@@ -12,5 +12,4 @@
 <td>You say stop</td>
 <td>I say no </td>
 </tr>
-
 </table>
